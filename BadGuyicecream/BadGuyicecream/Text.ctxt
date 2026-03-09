@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Text
+comment1.params=text\ fontSize\ textColor
+comment1.target=Text(java.lang.String,\ int,\ java.awt.Color)
+comment2.params=text
+comment2.target=void\ setText(java.lang.String)
+numComments=3

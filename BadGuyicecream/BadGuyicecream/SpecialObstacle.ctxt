@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SpecialObstacle
+comment1.params=
+comment1.target=SpecialObstacle()
+comment2.params=breakable
+comment2.target=void\ setBreakable(boolean)
+comment3.params=iceBrokenNearby
+comment3.target=void\ setIceBrokenNearby(boolean)
+comment4.params=
+comment4.target=void\ act()
+numComments=5

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Monster
+comment1.params=
+comment1.target=Monster()
+comment2.params=
+comment2.target=void\ scaleImageToFitSize()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=x\ y
+comment4.target=void\ checkFruitCollision(int,\ int)
+comment5.params=x\ y
+comment5.target=boolean\ canMoveTo(int,\ int)
+comment6.params=
+comment6.target=void\ die()
+comment7.params=
+comment7.target=void\ turnAround()
+numComments=8

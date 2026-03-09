@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Ice
+comment1.params=
+comment1.target=Ice()
+comment2.params=image
+comment2.target=Ice(greenfoot.GreenfootImage)
+comment3.params=
+comment3.target=void\ loadSounds()
+comment4.params=
+comment4.target=void\ scaleIceImageToFitSize()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ updateBreakImage()
+comment7.params=
+comment7.target=void\ scaleBreakImageToFitSize()
+comment8.params=
+comment8.target=void\ startBreaking()
+comment9.params=
+comment9.target=void\ playBreakSound()
+numComments=10
